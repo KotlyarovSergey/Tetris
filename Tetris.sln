@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{87CFF59A-3D79-4D76-9505-FA7C32EE51DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87CFF59A-3D79-4D76-9505-FA7C32EE51DA}.Debug|x86.ActiveCfg = Debug|x86
+		{87CFF59A-3D79-4D76-9505-FA7C32EE51DA}.Debug|x86.Build.0 = Debug|x86
+		{87CFF59A-3D79-4D76-9505-FA7C32EE51DA}.Release|x86.ActiveCfg = Release|x86
+		{87CFF59A-3D79-4D76-9505-FA7C32EE51DA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
